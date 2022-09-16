@@ -1,6 +1,6 @@
 # GUI.py
 import pygame
-from working import solve, valid
+from solver import solve, valid
 import time
 pygame.font.init()
 
